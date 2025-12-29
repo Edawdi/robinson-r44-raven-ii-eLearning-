@@ -85,7 +85,7 @@ This repository is organized like a product case file. If you create these files
 - Reduced instructor time spent on repetitive theory briefings (training organization feedback)
 - Established a repeatable approach/framework for future aircraft-type e-learning products
 
-**Public product page highlights (as listed on the course page):**
+**Public product page highlights:**
 - ~9 hours of learning content  
 - 10 modules  
 - 100+ questions  
