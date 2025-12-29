@@ -24,3 +24,45 @@ I acted as the **Product Owner** for this product and was responsible for:
 - Collaborating with subject-matter experts, designers, and engineers
 - Overseeing delivery from concept through release
 - Evaluating feedback and identifying improvement opportunities
+## Product Objectives
+
+The primary objectives of the Robinson R44 Raven II e-learning product were to:
+
+- Provide a comprehensive and structured theoretical training solution for the R44 Raven II helicopter
+- Support both initial and recurrent pilot training
+- Ensure compliance with applicable aviation training regulations (EASA / FAA)
+- Enable training organizations to reduce dependency on instructor-led ground sessions
+- Deliver a consistent learning experience across multiple devices and locations
+## Product Scope & Key Features
+
+The product was delivered as a modular computer-based training (CBT) course with the following scope:
+
+- Aircraft overview and limitations
+- Detailed systems coverage (engine, fuel, electrical, rotor systems)
+- Normal and emergency procedures
+- Interactive walk-around training
+- Knowledge checks and assessments embedded throughout the course
+- Cross-platform accessibility (desktop and mobile devices)
+
+The modular structure allowed training organizations to adapt the course to different training programs and learner needs.
+## Outcomes & Impact
+
+The Robinson R44 Raven II e-learning product was successfully delivered and adopted by aviation training organizations as part of their pilot training programs.
+
+Key outcomes included:
+- A structured course consisting of multiple learning modules and assessments
+- Improved learner accessibility through self-paced, device-agnostic training
+- Reduced instructor time required for repetitive theoretical briefings
+- Positive feedback from training organizations regarding clarity and usability
+
+The product established a reusable framework for developing future helicopter-type e-learning courses.
+## Key Learnings
+
+This project reinforced the importance of:
+
+- Close collaboration with subject-matter experts when translating complex technical content into learner-friendly material
+- Balancing regulatory requirements with user experience
+- Structuring content modularly to support scalability across aircraft types
+- Iterative refinement based on stakeholder and user feedback
+
+
