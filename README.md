@@ -65,7 +65,6 @@ A few product practices that shaped delivery:
 ---
 
 ## 🧱 Key Deliverables
-This repository is organized like a product case file. If you create these files later, the links below will work automatically.
 
 | Artifact | What it shows |
 |---|---|
